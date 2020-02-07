@@ -60,7 +60,7 @@ function [h,ax,BigAx] = gplotmatrixg(varargin)
 %   Copyright 1993-2017 The MathWorks, Inc.
 %
 % Original corrplot function modified by:
-% Rene Labounek, PhD
+% Rene Labounek, PhD and Igor Nestrasil, MD, PhD
 % Division of Clinical Behavioral Neuroscience, Department of Pediatrics, University of Minnesota
 % Minneapolis, MN, USA
 % contact emails: rene.labounek@gmail.com, rlaboune@umn.edu
