@@ -1,3 +1,10 @@
+% Authors:
+% Rene Labounek, PhD and Igor Nestrasil, MD, PhD
+% Division of Clinical Behavioral Neuroscience, Department of Pediatrics, University of Minnesota
+% Minneapolis, MN, USA
+% contact emails: rene.labounek@gmail.com, rlaboune@umn.edu
+% Last edits: 7th February 2020
+
 load("example_data.mat")
 variable_name = {'var1' 'var2' 'var3' 'var4'};
 
