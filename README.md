@@ -1,5 +1,5 @@
 # corrplotg
-This is modification of original MATLAB function "corrplot" (part of the Econometrics Toolbox) enabling to visualize different groups of data samples in the correlation matrix graph.
+This is modification of original MATLAB function "corrplot" (part of the Econometrics Toolbox) enabling to visualize different groups of data samples in the correlation matrix graph. Code modifications were implemented in MATLAB version R2018b.
 
 Example graph can be visualized with the script example_script.m
 
