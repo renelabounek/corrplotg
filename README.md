@@ -1,7 +1,7 @@
 # corrplotg
 Authors: Rene Labounek and Igor Nestrasil
 
-Both from Division of Clinical Behavioral Neuroscience, University of Minnesota, Minneapolis, MN, USA
+Both from Division of Clinical Behavioral Neuroscience, Department of Pediatrics, University of Minnesota, Minneapolis, MN, USA
 
 This is modification of original MATLAB function "corrplot" (part of the Econometrics Toolbox) enabling to visualize different groups of data samples in the correlation matrix graph. Code modifications were implemented in MATLAB version R2018b.
 
