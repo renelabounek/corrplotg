@@ -1,4 +1,6 @@
 # corrplotg
+[![View corrplotg on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/74204-corrplotg)
+
 Authors: Rene Labounek and Igor Nestrasil
 
 Both from Division of Clinical Behavioral Neuroscience, Department of Pediatrics, University of Minnesota, Minneapolis, MN, USA
