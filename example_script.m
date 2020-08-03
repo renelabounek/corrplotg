@@ -5,7 +5,7 @@
 % contact emails: rene.labounek@gmail.com, rlaboune@umn.edu
 % Last edits: 7th February 2020
 
-load("example_data.mat")
+load('example_data.mat')
 variable_name = {'var1' 'var2' 'var3' 'var4'};
 
 clr='ygbrb';
